@@ -9,6 +9,7 @@ Repository with links to repositories with different project parts and other use
 |------|------|-------------|------------------ |
 | UCEC-Data | Labels for TCGA UCEC, CPTAC UCEC, and Cracow UCEC datasets. | [Repository](https://github.com/julimer228/UCEC-Data) | Private |
 | MIL_WSI | Project with MIL and feature extraction with PFM. | [Repository](https://github.com/julimer228/MIL_WSI) | Private |
+| UMAP-image-viewer | Dash application to visualise UMAP results for imaging data. } [Repository](https://github.com/julimer228/UMAP-image-viewer) | Private |
 
 ---
 
